@@ -8,7 +8,7 @@ public class CalendarDemo {
 		
         // creating Calendar object
         Calendar calendar = Calendar.getInstance();
-          
+          int a;
         // Demonstrate Calendar's get()method
         System.out.println("The Current Date is:" + calendar.getTime());
         System.out.println("Current Calendar's Year: " + calendar.get(Calendar.YEAR));
